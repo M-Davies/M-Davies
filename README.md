@@ -9,7 +9,7 @@ Welcome to my GitHub Profile!
 - :school:  As part of my final year university project, I am developing a [gesture and facial recognition authentication system](https://github.com/M-Davies/eye-of-horus) utilising AWS machine learning and a ReactJS frontend website. Furthermore, various university projects and tasks have been completed by myself (or as part of a team) over the past 3 years, most of which I have [made public](https://github.com/M-Davies/UniversityProjects). Please see these projects for examples of what I have studied so far.
 
 - 📫 How to reach me
-<a href="https://www.linkedin.com/in/morgan-davies-482428152/"><img src="https://raw.githubusercontent.com/M-Davies/M-Davies/master/linkedin.png" height="35px"/></a>
+<a href="https://www.linkedin.com/in/mdavies12/"><img src="https://raw.githubusercontent.com/M-Davies/M-Davies/master/linkedin.png" height="35px"/></a>
 
 - 💰 Want to sponsor me?
 <a href="https://github.com/sponsors/M-Davies"><img src="https://raw.githubusercontent.com/M-Davies/M-Davies/master/sponsors.png" height="35px"/></a>
